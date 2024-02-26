@@ -103,7 +103,7 @@ h1 {
   align-content: center;
   flex-wrap: wrap;
   border: none;
-  margin: 20px auto;
+  margin: 20px auto 0;
 }
 .game-page .trophies .gallery img {
   border: 1px solid #ddd;
